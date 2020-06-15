@@ -1,0 +1,79 @@
+2020-06-15 22:33:42,699 [main] INFO  org.apache.curator.framework.imps.CuratorFrameworkImpl (CuratorFrameworkImpl.java:235) - Starting
+2020-06-15 22:33:51,717 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2020-06-15 22:33:51,718 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:host.name=wushaopei
+2020-06-15 22:33:51,718 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.version=1.8.0_111
+2020-06-15 22:33:51,718 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.vendor=Oracle Corporation
+2020-06-15 22:33:51,719 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.home=J:\folder\jre1.8
+2020-06-15 22:33:51,719 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.class.path=..\conf;;..\lib\commons-logging-1.2.jar;..\lib\curator-client-2.12.0.jar;..\lib\curator-framework-2.12.0.jar;..\lib\dubbo-2.6.0.jar;..\lib\dubbo-monitor-simple-2.0.0.jar;..\lib\fastjson-1.2.31.jar;..\lib\guava-16.0.1.jar;..\lib\javassist-3.20.0-GA.jar;..\lib\javax.servlet-api-3.1.0.jar;..\lib\jcommon-1.0.16.jar;..\lib\jetty-6.1.26.jar;..\lib\jetty-util-6.1.26.jar;..\lib\jfreechart-1.0.13.jar;..\lib\jline-0.9.94.jar;..\lib\log4j-1.2.16.jar;..\lib\netty-3.2.5.Final.jar;..\lib\netty-3.7.0.Final.jar;..\lib\slf4j-api-1.7.25.jar;..\lib\slf4j-log4j12-1.7.25.jar;..\lib\spring-aop-4.3.10.RELEASE.jar;..\lib\spring-beans-4.3.10.RELEASE.jar;..\lib\spring-context-4.3.10.RELEASE.jar;..\lib\spring-core-4.3.10.RELEASE.jar;..\lib\spring-expression-4.3.10.RELEASE.jar;..\lib\spring-web-4.3.10.RELEASE.jar;..\lib\zookeeper-3.4.8.jar
+2020-06-15 22:33:51,720 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.library.path=C:\ProgramData\Oracle\Java\javapath;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\tibco\tibrv\8.4\bin;F:\QQPram\xshell\;G:\app\wushaopei\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Users\wushaopei\AppData\Local\Temp\LRE83F0.tmp\bin;C:\Users\wushaopei\AppData\Local\Temp\LRE83F0.tmp\jre\bin;J:\P2C\apache-maven-3.3.9\bin;J:\develop\mysql-8.0.16-winx64\bin;F:\Program Files (x86)\Subversion\bin;F:\QQPram\nvm;J:\develop\Git\cmd;F:\QQPram\Tortoise svn\bin;C:\Python\Python27\Scripts\;C:\Python\Python27\;C:\Users\wushaopei\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;%NVM_SYMLINK%;F:\QQPram\Microsoft VS Code\bin;F:\QQPram\nodejs\node_global;C:\Users\wushaopei\AppData\Local\BypassRuntm;F:\QQPram\nodejs;.
+2020-06-15 22:33:51,720 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.io.tmpdir=C:\Users\wushaopei\AppData\Local\Temp\
+2020-06-15 22:33:51,720 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.compiler=<NA>
+2020-06-15 22:33:51,720 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:os.name=Windows 10
+2020-06-15 22:33:51,720 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:os.arch=amd64
+2020-06-15 22:33:51,720 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:os.version=10.0
+2020-06-15 22:33:51,720 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:user.name=wushaopei
+2020-06-15 22:33:51,721 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:user.home=C:\Users\wushaopei
+2020-06-15 22:33:51,723 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:user.dir=F:\QQPram\dubbo-monitor-simple-2.0.0-assembly (2)\dubbo-monitor-simple-2.0.0\assembly.bin
+2020-06-15 22:33:51,724 [main] INFO  org.apache.zookeeper.ZooKeeper (ZooKeeper.java:438) - Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=60000 watcher=org.apache.curator.ConnectionState@5b247367
+2020-06-15 22:33:51,739 [main-SendThread(127.0.0.1:2181)] INFO  org.apache.zookeeper.ClientCnxn$SendThread (ClientCnxn.java:1032) - Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2020-06-15 22:33:51,741 [main-SendThread(127.0.0.1:2181)] INFO  org.apache.zookeeper.ClientCnxn$SendThread (ClientCnxn.java:876) - Socket connection established to 127.0.0.1/127.0.0.1:2181, initiating session
+2020-06-15 22:33:51,849 [main-SendThread(127.0.0.1:2181)] INFO  org.apache.zookeeper.ClientCnxn$SendThread (ClientCnxn.java:1299) - Session establishment complete on server 127.0.0.1/127.0.0.1:2181, sessionid = 0x10002e601570002, negotiated timeout = 40000
+2020-06-15 22:33:51,852 [main-EventThread] INFO  org.apache.curator.framework.state.ConnectionStateManager (ConnectionStateManager.java:228) - State change: CONNECTED
+2020-06-15 22:33:52,112 [main] WARN  org.mortbay.log.Slf4jLog (Slf4jLog.java:76) - failed SelectChannelConnector@0.0.0.0:8080: java.net.BindException: Address already in use: bind
+2020-06-15 22:33:52,112 [main] WARN  org.mortbay.log.Slf4jLog (Slf4jLog.java:76) - failed Server@19e7a160: java.net.BindException: Address already in use: bind
+2020-06-15 22:33:52,117 [main] ERROR com.alibaba.dubbo.container.Main (Main.java:91) -  [DUBBO] Failed to start jetty server on 169.254.178.74:8080, cause: Address already in use: bind, dubbo version: 2.6.0, current host: 169.254.178.74
+java.lang.IllegalStateException: Failed to start jetty server on 169.254.178.74:8080, cause: Address already in use: bind
+	at com.alibaba.dubbo.monitor.simple.container.JettyContainer.start(JettyContainer.java:74)
+	at com.alibaba.dubbo.container.Main.main(Main.java:85)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.mortbay.jetty.nio.SelectChannelConnector.open(SelectChannelConnector.java:216)
+	at org.mortbay.jetty.nio.SelectChannelConnector.doStart(SelectChannelConnector.java:315)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.Server.doStart(Server.java:235)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at com.alibaba.dubbo.monitor.simple.container.JettyContainer.start(JettyContainer.java:72)
+	... 1 more
+2020-06-15 22:33:52,129 [Curator-Framework-0] INFO  org.apache.curator.framework.imps.CuratorFrameworkImpl (CuratorFrameworkImpl.java:821) - backgroundOperationsLoop exiting
+2020-06-15 22:33:52,147 [main-EventThread] ERROR org.apache.curator.framework.imps.CuratorFrameworkImpl (CuratorFrameworkImpl.java:566) - Watcher exception
+java.lang.IllegalStateException: instance must be started before calling this method
+	at org.apache.curator.shaded.com.google.common.base.Preconditions.checkState(Preconditions.java:176)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.getChildren(CuratorFrameworkImpl.java:391)
+	at com.alibaba.dubbo.remoting.zookeeper.curator.CuratorZookeeperClient$CuratorWatcherImpl.process(CuratorZookeeperClient.java:159)
+	at org.apache.curator.framework.imps.NamespaceWatcher.process(NamespaceWatcher.java:68)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:530)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:505)
+2020-06-15 22:33:52,147 [DubboShutdownHook] INFO  org.apache.zookeeper.ZooKeeper (ZooKeeper.java:684) - Session: 0x10002e601570002 closed
+2020-06-15 22:33:52,148 [main-EventThread] INFO  org.apache.zookeeper.ClientCnxn$EventThread (ClientCnxn.java:519) - EventThread shut down for session: 0x10002e601570002
+2020-06-15 22:34:59,778 [main] INFO  org.apache.curator.framework.imps.CuratorFrameworkImpl (CuratorFrameworkImpl.java:235) - Starting
+2020-06-15 22:35:08,796 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2020-06-15 22:35:08,797 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:host.name=wushaopei
+2020-06-15 22:35:08,797 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.version=1.8.0_111
+2020-06-15 22:35:08,797 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.vendor=Oracle Corporation
+2020-06-15 22:35:08,797 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.home=J:\folder\jre1.8
+2020-06-15 22:35:08,797 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.class.path=..\conf;;..\lib\commons-logging-1.2.jar;..\lib\curator-client-2.12.0.jar;..\lib\curator-framework-2.12.0.jar;..\lib\dubbo-2.6.0.jar;..\lib\dubbo-monitor-simple-2.0.0.jar;..\lib\fastjson-1.2.31.jar;..\lib\guava-16.0.1.jar;..\lib\javassist-3.20.0-GA.jar;..\lib\javax.servlet-api-3.1.0.jar;..\lib\jcommon-1.0.16.jar;..\lib\jetty-6.1.26.jar;..\lib\jetty-util-6.1.26.jar;..\lib\jfreechart-1.0.13.jar;..\lib\jline-0.9.94.jar;..\lib\log4j-1.2.16.jar;..\lib\netty-3.2.5.Final.jar;..\lib\netty-3.7.0.Final.jar;..\lib\slf4j-api-1.7.25.jar;..\lib\slf4j-log4j12-1.7.25.jar;..\lib\spring-aop-4.3.10.RELEASE.jar;..\lib\spring-beans-4.3.10.RELEASE.jar;..\lib\spring-context-4.3.10.RELEASE.jar;..\lib\spring-core-4.3.10.RELEASE.jar;..\lib\spring-expression-4.3.10.RELEASE.jar;..\lib\spring-web-4.3.10.RELEASE.jar;..\lib\zookeeper-3.4.8.jar
+2020-06-15 22:35:08,797 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.library.path=C:\ProgramData\Oracle\Java\javapath;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\tibco\tibrv\8.4\bin;F:\QQPram\xshell\;G:\app\wushaopei\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Users\wushaopei\AppData\Local\Temp\LRE83F0.tmp\bin;C:\Users\wushaopei\AppData\Local\Temp\LRE83F0.tmp\jre\bin;J:\P2C\apache-maven-3.3.9\bin;J:\develop\mysql-8.0.16-winx64\bin;F:\Program Files (x86)\Subversion\bin;F:\QQPram\nvm;J:\develop\Git\cmd;F:\QQPram\Tortoise svn\bin;C:\Python\Python27\Scripts\;C:\Python\Python27\;C:\Users\wushaopei\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;%NVM_SYMLINK%;F:\QQPram\Microsoft VS Code\bin;F:\QQPram\nodejs\node_global;C:\Users\wushaopei\AppData\Local\BypassRuntm;F:\QQPram\nodejs;.
+2020-06-15 22:35:08,797 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.io.tmpdir=C:\Users\wushaopei\AppData\Local\Temp\
+2020-06-15 22:35:08,798 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:java.compiler=<NA>
+2020-06-15 22:35:08,798 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:os.name=Windows 10
+2020-06-15 22:35:08,798 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:os.arch=amd64
+2020-06-15 22:35:08,798 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:os.version=10.0
+2020-06-15 22:35:08,798 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:user.name=wushaopei
+2020-06-15 22:35:08,798 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:user.home=C:\Users\wushaopei
+2020-06-15 22:35:08,801 [main] INFO  org.apache.zookeeper.Environment (Environment.java:100) - Client environment:user.dir=F:\QQPram\dubbo-monitor-simple-2.0.0-assembly (2)\dubbo-monitor-simple-2.0.0\assembly.bin
+2020-06-15 22:35:08,802 [main] INFO  org.apache.zookeeper.ZooKeeper (ZooKeeper.java:438) - Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=60000 watcher=org.apache.curator.ConnectionState@5b247367
+2020-06-15 22:35:08,818 [main-SendThread(127.0.0.1:2181)] INFO  org.apache.zookeeper.ClientCnxn$SendThread (ClientCnxn.java:1032) - Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2020-06-15 22:35:08,819 [main-SendThread(127.0.0.1:2181)] INFO  org.apache.zookeeper.ClientCnxn$SendThread (ClientCnxn.java:876) - Socket connection established to 127.0.0.1/127.0.0.1:2181, initiating session
+2020-06-15 22:35:08,934 [main-SendThread(127.0.0.1:2181)] INFO  org.apache.zookeeper.ClientCnxn$SendThread (ClientCnxn.java:1299) - Session establishment complete on server 127.0.0.1/127.0.0.1:2181, sessionid = 0x10002e601570003, negotiated timeout = 40000
+2020-06-15 22:35:08,938 [main-EventThread] INFO  org.apache.curator.framework.state.ConnectionStateManager (ConnectionStateManager.java:228) - State change: CONNECTED
+2020-06-15 22:36:20,077 [DubboSaveRegistryCache-thread-1] WARN  com.alibaba.dubbo.registry.support.AbstractRegistry (AbstractRegistry.java:191) -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\wushaopei\.dubbo\dubbo-registry-simple-monitor-127.0.0.1:2181.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.6.0, current host: 169.254.178.74
+java.io.IOException: Can not lock the registry cache file C:\Users\wushaopei\.dubbo\dubbo-registry-simple-monitor-127.0.0.1:2181.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:163)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:497)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
